@@ -1,4 +1,5 @@
 Bshsn-bahan :
+- daun kesum
 - ikan tenggiri
 
 
